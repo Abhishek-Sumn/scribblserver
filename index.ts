@@ -1,4 +1,4 @@
-import { drawLine } from './../socketscribbl/utils/drawLine';
+
 declare var require: any
 
 const express = require('express')
